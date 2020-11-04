@@ -20,6 +20,10 @@
             <groupId>com.heima</groupId>
             <artifactId>heima-leadnews-model</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.heima</groupId>
+            <artifactId>heima-leadnews-model</artifactId>
+        </dependency>
     </dependencies>
 
 
